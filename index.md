@@ -18,6 +18,7 @@ The MML Shared Labs, located on the first floor of Building 4, are a series of c
 
 The labs are monitored by Katie Luxa (Lab Manager), Tom Gelatt, Nancy Friday, and the AFSC Safety Office. 
 
+
 ## Table of Contents
 ### Safety at AFSC
 ### Lab Use Requirements & Expectations
