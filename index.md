@@ -26,8 +26,8 @@ The labs are monitored by Katie Luxa (Lab Manager), Tom Gelatt, Nancy Friday, an
 ### Chemical Inventories & Reporting
 ### Specimen Collections
 ### Freezers
-## Other Lab Equipment
-## Clean-Up & Waste Disposal
+### Other Lab Equipment
+### Clean-Up & Waste Disposal
 
 [AFSC Safety Intranet page](https://sites.google.com/noaa.gov/myafsc/safety)
 
